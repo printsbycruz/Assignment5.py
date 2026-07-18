@@ -2,12 +2,11 @@
 # Course: IT3883/Section W01
 # Student Name: Jonathan Cruz
 # Assignment Number: Assignment 5
-# Due Date: [Enter due date]
+# Due Date: 07/17/2026
 # Purpose: This program reads daily temperature information from a text file,
 # stores the information in a SQLite database, and calculates the average
 # temperatures recorded on Sunday and Thursday.
-# Resources Used: Python sqlite3 documentation and assistance from ChatGPT
-# with understanding the SQLite database process.
+# Resources Used: Python sqlite3 documentation and understanding the SQLite database process.
 
 import sqlite3
 
